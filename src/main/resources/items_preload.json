@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": "avocado",
+    "description": "contains a high dose of vitamins and nutrients",
+    "brand": "cado tm",
+    "category": "grocery",
+    "barcode": "z92241247700",
+    "price": 1.99
+  },
+  {
+    "id": 0,
+    "name": "banana",
+    "description": "contains a potassium and nutrients",
+    "brand": "cha",
+    "category": "grocery",
+    "barcode": "b92241247700",
+    "price": 0.29
+  },
+  {
+    "id": 0,
+    "name": "red hotwheel",
+    "description": "red hotwheel",
+    "brand": "hw",
+    "category": "toys",
+    "barcode": "hwr82241247701",
+    "price": 9.99
+  },
+  {
+    "id": 0,
+    "name": "blue hotwheel",
+    "description": "blue hotwheel",
+    "brand": "hw",
+    "category": "toys",
+    "barcode": "hwb82241247701",
+    "price": 9.99
+  },
+  {
+    "id": 0,
+    "name": "band-aid",
+    "description": "value pack of assorted bandages is perfect for family first aid kits",
+    "brand": "j and j",
+    "category": "medical",
+    "barcode": "jj82241247701",
+    "price": 4.99
+  },
+  {
+    "id": 0,
+    "name": "gauze",
+    "description": "value pack of assorted gauze is perfect for family first aid kits",
+    "brand": "j and j",
+    "category": "medical",
+    "barcode": "gg82241247701",
+    "price": 4.99
+  },
+  {
+    "id": 0,
+    "name": "luxury sofa set",
+    "description": "patio sofa",
+    "brand": "furniture company",
+    "category": "furniture",
+    "barcode": "ff82241247799",
+    "price": 999.99
+  }
+]
